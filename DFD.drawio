@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T02:54:47.607Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="vTO3abom6eOhXcc7dXvB" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-24T12:02:46.676Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="epidYHo79RdPLfDDmvv6" version="20.0.1" type="github">
   <diagram id="dOKS9UgJ7xeJMAQ9yBs4" name="Page-1">
-    <mxGraphModel dx="3722" dy="1576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F9F1F1" math="0" shadow="0">
+    <mxGraphModel dx="7136" dy="2756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F9F1F1" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kBRfFhFR6J043FuspMJ5-9" value="DFD 1" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=61;strokeWidth=7;fillColor=none;verticalAlign=bottom;spacingTop=13;spacingBottom=-35;labelBackgroundColor=#F9F1F1;" vertex="1" parent="1">
-          <mxGeometry x="-1240" y="1080" width="2020" height="2930" as="geometry" />
+        <mxCell id="kBRfFhFR6J043FuspMJ5-9" value="DFD 1" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=61;strokeWidth=7;fillColor=none;verticalAlign=bottom;spacingTop=13;spacingBottom=-35;labelBackgroundColor=#F9F1F1;" parent="1" vertex="1">
+          <mxGeometry x="-1210" y="5390" width="2020" height="2930" as="geometry" />
         </mxCell>
         <mxCell id="U1UUHdSYpsaotjeb4_By-18" value="DFD 0" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=61;strokeWidth=7;fillColor=none;verticalAlign=bottom;spacingTop=13;spacingBottom=-35;labelBackgroundColor=#F9F1F1;" parent="1" vertex="1">
           <mxGeometry x="-1240" y="180" width="2020" height="840" as="geometry" />
@@ -85,11 +85,11 @@
         <mxCell id="U1UUHdSYpsaotjeb4_By-30" value="Selection" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;strokeColor=#8C5555;strokeWidth=7;" parent="1" source="U1UUHdSYpsaotjeb4_By-17" target="U1UUHdSYpsaotjeb4_By-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-10" value="Payment information" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" edge="1" parent="1" source="U1UUHdSYpsaotjeb4_By-17" target="kBRfFhFR6J043FuspMJ5-8">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-10" value="Payment information" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" parent="1" source="U1UUHdSYpsaotjeb4_By-17" target="kBRfFhFR6J043FuspMJ5-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U1UUHdSYpsaotjeb4_By-17" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=7;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=38;fillColor=#F6CFAA;shadow=0;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="-1030" y="1340" width="240" height="202" as="geometry" />
+          <mxGeometry x="-940" y="5640" width="240" height="202" as="geometry" />
         </mxCell>
         <mxCell id="U1UUHdSYpsaotjeb4_By-23" value="" style="group;strokeWidth=7;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-440" y="280" width="310" height="290" as="geometry" />
@@ -103,7 +103,7 @@
           <mxGeometry y="10" width="310" height="280" as="geometry" />
         </mxCell>
         <mxCell id="U1UUHdSYpsaotjeb4_By-25" value="" style="group;fontSize=13;strokeWidth=7;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-440" y="1270" width="310" height="290" as="geometry" />
+          <mxGeometry x="-350" y="5570" width="310" height="290" as="geometry" />
         </mxCell>
         <mxCell id="U1UUHdSYpsaotjeb4_By-26" value="&lt;font face=&quot;Inria Sans&quot;&gt;Browse/search and play song&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=38;strokeWidth=7;fillColor=#F6CFAA;container=0;arcSize=13;spacingTop=30;" parent="U1UUHdSYpsaotjeb4_By-25" vertex="1">
           <mxGeometry y="40" width="310" height="250" as="geometry">
@@ -120,7 +120,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U1UUHdSYpsaotjeb4_By-43" value="" style="group;strokeWidth=7;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="25" y="1230" width="400" height="80" as="geometry" />
+          <mxGeometry x="115" y="5530" width="400" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U1UUHdSYpsaotjeb4_By-41" value="Billboard" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#F6CFAA;right=0;labelPosition=center;align=left;spacingLeft=120;" parent="U1UUHdSYpsaotjeb4_By-43" vertex="1">
           <mxGeometry width="400" height="80" as="geometry" />
@@ -132,7 +132,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U1UUHdSYpsaotjeb4_By-45" value="F" style="group;strokeWidth=7;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="170" y="1350" width="400" height="80" as="geometry" />
+          <mxGeometry x="260" y="5650" width="400" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U1UUHdSYpsaotjeb4_By-46" value="Customer&#39;s favorites" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#F6CFAA;right=0;labelPosition=center;align=left;spacingLeft=120;" parent="U1UUHdSYpsaotjeb4_By-45" vertex="1">
           <mxGeometry width="400" height="80" as="geometry" />
@@ -147,7 +147,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U1UUHdSYpsaotjeb4_By-50" value="F" style="group;strokeWidth=7;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="150" y="1490" width="400" height="80" as="geometry" />
+          <mxGeometry x="240" y="5790" width="400" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U1UUHdSYpsaotjeb4_By-51" value="Customer&#39;s interests" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#F6CFAA;right=0;labelPosition=center;align=left;spacingLeft=120;" parent="U1UUHdSYpsaotjeb4_By-50" vertex="1">
           <mxGeometry width="400" height="80" as="geometry" />
@@ -161,13 +161,13 @@
         <mxCell id="U1UUHdSYpsaotjeb4_By-55" value="Related songs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F9F1F1;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;strokeColor=#8C5555;strokeWidth=7;exitX=0.018;exitY=0.918;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="U1UUHdSYpsaotjeb4_By-52" target="U1UUHdSYpsaotjeb4_By-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="152" y="1630" />
-              <mxPoint x="-180" y="1630" />
+              <mxPoint x="242" y="5930" />
+              <mxPoint x="-90" y="5930" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="U1UUHdSYpsaotjeb4_By-56" value="F" style="group;strokeWidth=7;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="190" y="1720" width="400" height="80" as="geometry" />
+          <mxGeometry x="280" y="6020" width="400" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U1UUHdSYpsaotjeb4_By-57" value="Songs" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#F6CFAA;right=0;labelPosition=center;align=left;spacingLeft=120;" parent="U1UUHdSYpsaotjeb4_By-56" vertex="1">
           <mxGeometry width="400" height="80" as="geometry" />
@@ -178,233 +178,614 @@
         <mxCell id="U1UUHdSYpsaotjeb4_By-59" value="Requested songs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;strokeColor=#8C5555;strokeWidth=7;" parent="1" source="U1UUHdSYpsaotjeb4_By-58" target="U1UUHdSYpsaotjeb4_By-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-207" y="1730" />
+              <mxPoint x="-117" y="6030" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="U1UUHdSYpsaotjeb4_By-60" value="Similar songs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F9F1F1;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;strokeColor=#8C5555;strokeWidth=7;" parent="1" source="U1UUHdSYpsaotjeb4_By-58" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-240" y="1790" />
-              <mxPoint x="-240" y="1560" />
+              <mxPoint x="-150" y="6090" />
+              <mxPoint x="-150" y="5860" />
             </Array>
-            <mxPoint x="-240" y="1560" as="targetPoint" />
+            <mxPoint x="-150" y="5860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-1" value="F" style="group;strokeWidth=7;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="30" y="1930" width="400" height="80" as="geometry" />
+        <mxCell id="kBRfFhFR6J043FuspMJ5-1" value="F" style="group;strokeWidth=7;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="120" y="6230" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-2" value="Subscribers" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#F6CFAA;right=0;labelPosition=center;align=left;spacingLeft=120;" vertex="1" parent="kBRfFhFR6J043FuspMJ5-1">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-2" value="Subscribers" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#F6CFAA;right=0;labelPosition=center;align=left;spacingLeft=120;" parent="kBRfFhFR6J043FuspMJ5-1" vertex="1">
           <mxGeometry width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-3" value="D5" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#D68987;right=1;labelPosition=center;align=center;" vertex="1" parent="kBRfFhFR6J043FuspMJ5-1">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-3" value="D5" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#D68987;right=1;labelPosition=center;align=center;" parent="kBRfFhFR6J043FuspMJ5-1" vertex="1">
           <mxGeometry width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-4" value="Subscribe status" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=7;strokeColor=#8C5555;fontSize=28;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;labelBackgroundColor=#F9F1F1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kBRfFhFR6J043FuspMJ5-3" target="U1UUHdSYpsaotjeb4_By-27">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-4" value="Subscribe status" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=7;strokeColor=#8C5555;fontSize=28;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;labelBackgroundColor=#F9F1F1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="kBRfFhFR6J043FuspMJ5-3" target="U1UUHdSYpsaotjeb4_By-27" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-310" y="1560" as="targetPoint" />
+            <mxPoint x="-220" y="5860" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="85" y="1870" />
-              <mxPoint x="-285" y="1870" />
+              <mxPoint x="175" y="6170" />
+              <mxPoint x="-195" y="6170" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-5" value="User&#39;s information" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;strokeColor=#8C5555;strokeWidth=7;" edge="1" parent="1">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-5" value="User&#39;s information" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;strokeColor=#8C5555;strokeWidth=7;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-330" y="1560" as="sourcePoint" />
-            <mxPoint x="30" y="1970" as="targetPoint" />
+            <mxPoint x="-240" y="5860" as="sourcePoint" />
+            <mxPoint x="120" y="6270" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-330" y="1970" />
-              <mxPoint x="29" y="1970" />
+              <mxPoint x="-240" y="6270" />
+              <mxPoint x="119" y="6270" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-6" value="" style="group;fontSize=13;strokeWidth=7;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-440" y="2220" width="310" height="290" as="geometry" />
+        <mxCell id="kBRfFhFR6J043FuspMJ5-6" value="" style="group;fontSize=13;strokeWidth=7;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-350" y="6520" width="310" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-7" value="&lt;font face=&quot;Inria Sans&quot;&gt;Subscribe to the music service&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=38;strokeWidth=7;fillColor=#F6CFAA;container=0;arcSize=13;spacingTop=30;" vertex="1" parent="kBRfFhFR6J043FuspMJ5-6">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-7" value="&lt;font face=&quot;Inria Sans&quot;&gt;Subscribe to the music service&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=38;strokeWidth=7;fillColor=#F6CFAA;container=0;arcSize=13;spacingTop=30;" parent="kBRfFhFR6J043FuspMJ5-6" vertex="1">
           <mxGeometry y="40" width="310" height="250" as="geometry">
             <mxRectangle x="-440" y="320" width="570" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-8" value="2" style="swimlane;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=20;strokeWidth=7;fillColor=#D68987;startSize=40;labelBorderColor=none;arcSize=35;" vertex="1" parent="kBRfFhFR6J043FuspMJ5-6">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-8" value="2" style="swimlane;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=20;strokeWidth=7;fillColor=#D68987;startSize=40;labelBorderColor=none;arcSize=35;" parent="kBRfFhFR6J043FuspMJ5-6" vertex="1">
           <mxGeometry y="40" width="310" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-11" value="Subscription information" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.622;entryY=1.002;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;entryPerimeter=0;" edge="1" parent="1" source="kBRfFhFR6J043FuspMJ5-8" target="U1UUHdSYpsaotjeb4_By-17">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-11" value="Subscription information" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.622;entryY=1.002;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;entryPerimeter=0;" parent="1" source="kBRfFhFR6J043FuspMJ5-8" target="U1UUHdSYpsaotjeb4_By-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-640" y="2260" />
-              <mxPoint x="-640" y="1901" />
-              <mxPoint x="-881" y="1901" />
+              <mxPoint x="-550" y="6560" />
+              <mxPoint x="-550" y="6201" />
+              <mxPoint x="-791" y="6201" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-12" value="New subscriber" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=-0.013;entryY=0.754;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" edge="1" parent="1" source="kBRfFhFR6J043FuspMJ5-8" target="kBRfFhFR6J043FuspMJ5-3">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-12" value="New subscriber" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=-0.013;entryY=0.754;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" parent="1" source="kBRfFhFR6J043FuspMJ5-8" target="kBRfFhFR6J043FuspMJ5-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-208" y="2070" />
-              <mxPoint x="-40" y="2070" />
-              <mxPoint x="-40" y="1990" />
+              <mxPoint x="-118" y="6370" />
+              <mxPoint x="50" y="6370" />
+              <mxPoint x="50" y="6290" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-13" value="Subscribers&#39; information" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" edge="1" parent="1" source="kBRfFhFR6J043FuspMJ5-3">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-13" value="Subscribers&#39; information" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" parent="1" source="kBRfFhFR6J043FuspMJ5-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-130" y="2260" as="targetPoint" />
+            <mxPoint x="-40" y="6560" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="85" y="2230" />
-              <mxPoint x="-130" y="2230" />
+              <mxPoint x="175" y="6530" />
+              <mxPoint x="-40" y="6530" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-17" value="Payment information" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.594;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" edge="1" parent="1" source="kBRfFhFR6J043FuspMJ5-8" target="kBRfFhFR6J043FuspMJ5-19">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-17" value="Payment information" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" parent="1" source="kBRfFhFR6J043FuspMJ5-8" target="kBRfFhFR6J043FuspMJ5-19" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="2292" as="targetPoint" />
+            <mxPoint x="350" y="6592" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-18" value="Payment authorization" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kBRfFhFR6J043FuspMJ5-19" target="kBRfFhFR6J043FuspMJ5-8">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-18" value="Payment authorization" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="kBRfFhFR6J043FuspMJ5-19" target="kBRfFhFR6J043FuspMJ5-8" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="2350" as="sourcePoint" />
+            <mxPoint x="410" y="6650" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="390" y="2447" />
+              <mxPoint x="-690" y="6990" />
+              <mxPoint x="-410" y="6990" />
+              <mxPoint x="-410" y="6910" />
+              <mxPoint x="-272" y="6910" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-23" value="Purchase information" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.579;entryY=-0.058;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" edge="1" parent="1" source="kBRfFhFR6J043FuspMJ5-19" target="kBRfFhFR6J043FuspMJ5-21">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-23" value="Purchase information" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.579;entryY=-0.058;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" parent="1" source="kBRfFhFR6J043FuspMJ5-8" target="kBRfFhFR6J043FuspMJ5-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-19" value="Payment system" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=7;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=38;fillColor=#F6CFAA;shadow=0;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="2190" width="240" height="202" as="geometry" />
+        <mxCell id="kBRfFhFR6J043FuspMJ5-19" value="Payment system" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=7;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=38;fillColor=#F6CFAA;shadow=0;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="-810" y="6710" width="240" height="202" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-20" value="F" style="group;strokeWidth=7;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="210" y="2690" width="400" height="80" as="geometry" />
+        <mxCell id="kBRfFhFR6J043FuspMJ5-20" value="F" style="group;strokeWidth=7;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="300" y="6990" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-21" value="Sales" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#F6CFAA;right=0;labelPosition=center;align=left;spacingLeft=120;" vertex="1" parent="kBRfFhFR6J043FuspMJ5-20">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-21" value="Sales" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#F6CFAA;right=0;labelPosition=center;align=left;spacingLeft=120;" parent="kBRfFhFR6J043FuspMJ5-20" vertex="1">
           <mxGeometry width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-22" value="D6" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#D68987;right=1;labelPosition=center;align=center;" vertex="1" parent="kBRfFhFR6J043FuspMJ5-20">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-22" value="D6" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#D68987;right=1;labelPosition=center;align=center;" parent="kBRfFhFR6J043FuspMJ5-20" vertex="1">
           <mxGeometry width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-25" value="Purchase history" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" edge="1" parent="1" source="kBRfFhFR6J043FuspMJ5-22" target="kBRfFhFR6J043FuspMJ5-8">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-25" value="Purchase history" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" parent="1" source="kBRfFhFR6J043FuspMJ5-22" target="kBRfFhFR6J043FuspMJ5-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-26" value="F" style="group;strokeWidth=7;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="150" y="2890" width="400" height="80" as="geometry" />
+        <mxCell id="kBRfFhFR6J043FuspMJ5-26" value="F" style="group;strokeWidth=7;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="240" y="7190" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-27" value="Customers" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#F6CFAA;right=0;labelPosition=center;align=left;spacingLeft=120;" vertex="1" parent="kBRfFhFR6J043FuspMJ5-26">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-27" value="Customers" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#F6CFAA;right=0;labelPosition=center;align=left;spacingLeft=120;" parent="kBRfFhFR6J043FuspMJ5-26" vertex="1">
           <mxGeometry width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-28" value="D7" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#D68987;right=1;labelPosition=center;align=center;" vertex="1" parent="kBRfFhFR6J043FuspMJ5-26">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-28" value="D7" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#D68987;right=1;labelPosition=center;align=center;" parent="kBRfFhFR6J043FuspMJ5-26" vertex="1">
           <mxGeometry width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-29" value="New customer" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.482;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" edge="1" parent="1" source="kBRfFhFR6J043FuspMJ5-8" target="kBRfFhFR6J043FuspMJ5-28">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-29" value="New customer" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.482;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" parent="1" source="kBRfFhFR6J043FuspMJ5-8" target="kBRfFhFR6J043FuspMJ5-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-285" y="2830" />
-              <mxPoint x="203" y="2830" />
+              <mxPoint x="-195" y="7130" />
+              <mxPoint x="293" y="7130" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-30" value="Customer information" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" edge="1" parent="1" source="kBRfFhFR6J043FuspMJ5-28">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-30" value="Customer information" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" parent="1" source="kBRfFhFR6J043FuspMJ5-28" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-320" y="2510" as="targetPoint" />
+            <mxPoint x="-230" y="6810" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-320" y="2930" />
-              <mxPoint x="-320" y="2510" />
+              <mxPoint x="-230" y="7230" />
+              <mxPoint x="-230" y="6810" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-31" value="F" style="group;strokeWidth=7;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="70" y="3040" width="400" height="80" as="geometry" />
+        <mxCell id="kBRfFhFR6J043FuspMJ5-31" value="F" style="group;strokeWidth=7;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="360" y="7360" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-32" value="Customer&#39;s interests" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#F6CFAA;right=0;labelPosition=center;align=left;spacingLeft=120;" vertex="1" parent="kBRfFhFR6J043FuspMJ5-31">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-32" value="Customer&#39;s interests" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#F6CFAA;right=0;labelPosition=center;align=left;spacingLeft=120;" parent="kBRfFhFR6J043FuspMJ5-31" vertex="1">
           <mxGeometry width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-33" value="D3" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#D68987;right=1;labelPosition=center;align=center;" vertex="1" parent="kBRfFhFR6J043FuspMJ5-31">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-33" value="D3" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#D68987;right=1;labelPosition=center;align=center;" parent="kBRfFhFR6J043FuspMJ5-31" vertex="1">
           <mxGeometry width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-34" value="" style="group;fontSize=13;strokeWidth=7;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-460" y="3040" width="310" height="290" as="geometry" />
+        <mxCell id="kBRfFhFR6J043FuspMJ5-34" value="" style="group;fontSize=13;strokeWidth=7;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-370" y="7340" width="310" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-35" value="&lt;font face=&quot;Inria Sans&quot;&gt;Promote trending songs&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=38;strokeWidth=7;fillColor=#F6CFAA;container=0;arcSize=13;spacingTop=30;" vertex="1" parent="kBRfFhFR6J043FuspMJ5-34">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-35" value="&lt;font face=&quot;Inria Sans&quot;&gt;Promote trending songs&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=38;strokeWidth=7;fillColor=#F6CFAA;container=0;arcSize=13;spacingTop=30;" parent="kBRfFhFR6J043FuspMJ5-34" vertex="1">
           <mxGeometry y="40" width="310" height="250" as="geometry">
             <mxRectangle x="-440" y="320" width="570" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-36" value="3" style="swimlane;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=20;strokeWidth=7;fillColor=#D68987;startSize=40;labelBorderColor=none;arcSize=35;" vertex="1" parent="kBRfFhFR6J043FuspMJ5-34">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-36" value="3" style="swimlane;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=20;strokeWidth=7;fillColor=#D68987;startSize=40;labelBorderColor=none;arcSize=35;" parent="kBRfFhFR6J043FuspMJ5-34" vertex="1">
           <mxGeometry y="40" width="310" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-37" value="F" style="group;strokeWidth=7;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="70" y="3180" width="400" height="80" as="geometry" />
+        <mxCell id="kBRfFhFR6J043FuspMJ5-37" value="F" style="group;strokeWidth=7;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="190" y="7490" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-38" value="Customer&#39;s favorites" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#F6CFAA;right=0;labelPosition=center;align=left;spacingLeft=120;" vertex="1" parent="kBRfFhFR6J043FuspMJ5-37">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-38" value="Customer&#39;s favorites" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#F6CFAA;right=0;labelPosition=center;align=left;spacingLeft=120;" parent="kBRfFhFR6J043FuspMJ5-37" vertex="1">
           <mxGeometry width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-39" value="D2" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#D68987;right=1;labelPosition=center;align=center;" vertex="1" parent="kBRfFhFR6J043FuspMJ5-37">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-39" value="D2" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#D68987;right=1;labelPosition=center;align=center;" parent="kBRfFhFR6J043FuspMJ5-37" vertex="1">
           <mxGeometry width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-43" value="Songs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" edge="1" parent="1" source="kBRfFhFR6J043FuspMJ5-32" target="kBRfFhFR6J043FuspMJ5-45">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-43" value="Songs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;exitX=-0.055;exitY=0.525;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="kBRfFhFR6J043FuspMJ5-33" target="kBRfFhFR6J043FuspMJ5-36" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="3450" as="targetPoint" />
+            <mxPoint x="560" y="7750" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="610" y="3080" />
-              <mxPoint x="610" y="3460" />
-              <mxPoint x="400" y="3460" />
-              <mxPoint x="400" y="3461" />
+              <mxPoint x="60" y="7402" />
+              <mxPoint x="60" y="7442" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-44" value="Songs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" edge="1" parent="1" source="kBRfFhFR6J043FuspMJ5-38" target="kBRfFhFR6J043FuspMJ5-45">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-44" value="Songs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;exitX=-0.01;exitY=0.492;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="kBRfFhFR6J043FuspMJ5-39" target="kBRfFhFR6J043FuspMJ5-36" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="3451.6799999999994" as="targetPoint" />
+            <mxPoint x="560" y="7751.68" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="540" y="3220" />
-              <mxPoint x="540" y="3460" />
-              <mxPoint x="400" y="3460" />
-              <mxPoint x="400" y="3461" />
+              <mxPoint x="110" y="7529" />
+              <mxPoint x="110" y="7568" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-49" value="Top performing songs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" edge="1" parent="1" source="kBRfFhFR6J043FuspMJ5-45" target="kBRfFhFR6J043FuspMJ5-47">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="kBRfFhFR6J043FuspMJ5-49" value="Billboard decision" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="kBRfFhFR6J043FuspMJ5-45" target="kBRfFhFR6J043FuspMJ5-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-730" y="8011" />
+              <mxPoint x="-730" y="7630" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-45" value="Billboard managers" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=7;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=38;fillColor=#F6CFAA;shadow=0;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="3360" width="240" height="202" as="geometry" />
+        <mxCell id="kBRfFhFR6J043FuspMJ5-45" value="Billboard managers" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=7;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=38;fillColor=#F6CFAA;shadow=0;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="-1050" y="7920" width="240" height="202" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-46" value="" style="group;strokeWidth=7;" vertex="1" connectable="0" parent="1">
-          <mxGeometry y="3700" width="400" height="80" as="geometry" />
+        <mxCell id="kBRfFhFR6J043FuspMJ5-46" value="" style="group;strokeWidth=7;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="90" y="8000" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-47" value="Billboard" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#F6CFAA;right=0;labelPosition=center;align=left;spacingLeft=120;" vertex="1" parent="kBRfFhFR6J043FuspMJ5-46">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-47" value="Billboard" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#F6CFAA;right=0;labelPosition=center;align=left;spacingLeft=120;" parent="kBRfFhFR6J043FuspMJ5-46" vertex="1">
           <mxGeometry width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-48" value="D1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#D68987;right=1;labelPosition=center;align=center;" vertex="1" parent="kBRfFhFR6J043FuspMJ5-46">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-48" value="D1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#D68987;right=1;labelPosition=center;align=center;" parent="kBRfFhFR6J043FuspMJ5-46" vertex="1">
           <mxGeometry width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-50" value="Top performing songs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" edge="1" parent="1" source="kBRfFhFR6J043FuspMJ5-48" target="kBRfFhFR6J043FuspMJ5-36">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-50" value="Top performing songs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" parent="1" source="kBRfFhFR6J043FuspMJ5-48" target="kBRfFhFR6J043FuspMJ5-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-51" value="Most trending songs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" edge="1" parent="1" source="kBRfFhFR6J043FuspMJ5-36" target="U1UUHdSYpsaotjeb4_By-17">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-51" value="Most trending songs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" parent="1" source="kBRfFhFR6J043FuspMJ5-36" target="U1UUHdSYpsaotjeb4_By-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-52" value="F" style="group;strokeWidth=7;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-10" y="3840" width="400" height="80" as="geometry" />
+        <mxCell id="kBRfFhFR6J043FuspMJ5-52" value="F" style="group;strokeWidth=7;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="80" y="8140" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-53" value="Customers" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#F6CFAA;right=0;labelPosition=center;align=left;spacingLeft=120;" vertex="1" parent="kBRfFhFR6J043FuspMJ5-52">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-53" value="Customers" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#F6CFAA;right=0;labelPosition=center;align=left;spacingLeft=120;" parent="kBRfFhFR6J043FuspMJ5-52" vertex="1">
           <mxGeometry width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-54" value="D7" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#D68987;right=1;labelPosition=center;align=center;" vertex="1" parent="kBRfFhFR6J043FuspMJ5-52">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-54" value="D7" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#D68987;right=1;labelPosition=center;align=center;" parent="kBRfFhFR6J043FuspMJ5-52" vertex="1">
           <mxGeometry width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-55" value="Customer&#39;s email address" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" edge="1" parent="1" source="kBRfFhFR6J043FuspMJ5-54" target="kBRfFhFR6J043FuspMJ5-36">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-55" value="Customer&#39;s email address" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" parent="1" source="kBRfFhFR6J043FuspMJ5-54" target="kBRfFhFR6J043FuspMJ5-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kBRfFhFR6J043FuspMJ5-56" value="Email promotions" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" edge="1" parent="1" source="kBRfFhFR6J043FuspMJ5-36" target="U1UUHdSYpsaotjeb4_By-17">
+        <mxCell id="kBRfFhFR6J043FuspMJ5-56" value="Email promotions" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" parent="1" source="kBRfFhFR6J043FuspMJ5-36" target="U1UUHdSYpsaotjeb4_By-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1130" y="3268" />
-              <mxPoint x="-1130" y="1492" />
+              <mxPoint x="-1040" y="7568" />
+              <mxPoint x="-1040" y="5792" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-1" value="Top performing songs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=7;strokeColor=#945953;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;labelBackgroundColor=#F9F1F1;" edge="1" parent="1" source="kBRfFhFR6J043FuspMJ5-36" target="kBRfFhFR6J043FuspMJ5-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-370" y="7740" />
+              <mxPoint x="-540" y="7740" />
+              <mxPoint x="-540" y="8072" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-2" value="Customers&#39; favorite and interests" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;strokeColor=#945953;strokeWidth=7;" edge="1" parent="1" source="kBRfFhFR6J043FuspMJ5-36" target="kBRfFhFR6J043FuspMJ5-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="145" y="7630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-4" value="Search request" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;strokeColor=#8C5555;strokeWidth=7;" edge="1" source="vXiN6fV6Mzan8_HjuI6i-6" target="vXiN6fV6Mzan8_HjuI6i-9" parent="1">
+          <mxGeometry x="0.0016" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-5" value="Selection" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;strokeColor=#8C5555;strokeWidth=7;" edge="1" source="vXiN6fV6Mzan8_HjuI6i-6" target="vXiN6fV6Mzan8_HjuI6i-9" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-6" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=7;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=38;fillColor=#F6CFAA;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-1040" y="1330" width="240" height="202" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-7" value="" style="group;fontSize=13;strokeWidth=7;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-450" y="1260" width="310" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-8" value="&lt;font face=&quot;Inria Sans&quot;&gt;Browse/search and play song&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=38;strokeWidth=7;fillColor=#F6CFAA;container=0;arcSize=13;spacingTop=30;" vertex="1" parent="vXiN6fV6Mzan8_HjuI6i-7">
+          <mxGeometry y="40" width="310" height="250" as="geometry">
+            <mxRectangle x="-440" y="320" width="570" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-9" value="1" style="swimlane;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=20;strokeWidth=7;fillColor=#D68987;startSize=40;labelBorderColor=none;arcSize=35;" vertex="1" parent="vXiN6fV6Mzan8_HjuI6i-7">
+          <mxGeometry y="40" width="310" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-10" value="Matching songs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;strokeColor=#8C5555;strokeWidth=7;" edge="1" source="vXiN6fV6Mzan8_HjuI6i-9" target="vXiN6fV6Mzan8_HjuI6i-6" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-11" value="Song playback" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;strokeColor=#8C5555;strokeWidth=7;" edge="1" source="vXiN6fV6Mzan8_HjuI6i-9" target="vXiN6fV6Mzan8_HjuI6i-6" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-12" value="" style="group;strokeWidth=7;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="15" y="1220" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-13" value="Billboard" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#F6CFAA;right=0;labelPosition=center;align=left;spacingLeft=120;" vertex="1" parent="vXiN6fV6Mzan8_HjuI6i-12">
+          <mxGeometry width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-14" value="D1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#D68987;right=1;labelPosition=center;align=center;" vertex="1" parent="vXiN6fV6Mzan8_HjuI6i-12">
+          <mxGeometry width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-15" value="Top songs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;strokeColor=#8C5555;strokeWidth=7;" edge="1" source="vXiN6fV6Mzan8_HjuI6i-14" target="vXiN6fV6Mzan8_HjuI6i-9" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-16" value="F" style="group;strokeWidth=7;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="1340" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-17" value="Customer&#39;s favorites" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#F6CFAA;right=0;labelPosition=center;align=left;spacingLeft=120;" vertex="1" parent="vXiN6fV6Mzan8_HjuI6i-16">
+          <mxGeometry width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-18" value="D2" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#D68987;right=1;labelPosition=center;align=center;" vertex="1" parent="vXiN6fV6Mzan8_HjuI6i-16">
+          <mxGeometry width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-19" value="Favorite songs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;strokeColor=#8C5555;strokeWidth=7;" edge="1" source="vXiN6fV6Mzan8_HjuI6i-18" target="vXiN6fV6Mzan8_HjuI6i-9" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-20" value="New favorites" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.875;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#F9F1F1;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;strokeColor=#8C5555;strokeWidth=7;" edge="1" source="vXiN6fV6Mzan8_HjuI6i-9" target="vXiN6fV6Mzan8_HjuI6i-18" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-21" value="F" style="group;strokeWidth=7;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="140" y="1480" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-22" value="Customer&#39;s interests" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#F6CFAA;right=0;labelPosition=center;align=left;spacingLeft=120;" vertex="1" parent="vXiN6fV6Mzan8_HjuI6i-21">
+          <mxGeometry width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-23" value="D3" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#D68987;right=1;labelPosition=center;align=center;" vertex="1" parent="vXiN6fV6Mzan8_HjuI6i-21">
+          <mxGeometry width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-24" value="New interests" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.004;entryY=0.313;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#F9F1F1;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;strokeColor=#8C5555;strokeWidth=7;" edge="1" source="vXiN6fV6Mzan8_HjuI6i-9" target="vXiN6fV6Mzan8_HjuI6i-23" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-25" value="Related songs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F9F1F1;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;strokeColor=#8C5555;strokeWidth=7;exitX=0.018;exitY=0.918;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="vXiN6fV6Mzan8_HjuI6i-23" target="vXiN6fV6Mzan8_HjuI6i-8" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="142" y="1620" />
+              <mxPoint x="-190" y="1620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-26" value="F" style="group;strokeWidth=7;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="180" y="1710" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-27" value="Songs" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#F6CFAA;right=0;labelPosition=center;align=left;spacingLeft=120;" vertex="1" parent="vXiN6fV6Mzan8_HjuI6i-26">
+          <mxGeometry width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-28" value="D4" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#D68987;right=1;labelPosition=center;align=center;" vertex="1" parent="vXiN6fV6Mzan8_HjuI6i-26">
+          <mxGeometry width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-29" value="Requested songs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;strokeColor=#8C5555;strokeWidth=7;" edge="1" source="vXiN6fV6Mzan8_HjuI6i-28" target="vXiN6fV6Mzan8_HjuI6i-9" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-217" y="1720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-30" value="Similar songs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F9F1F1;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;strokeColor=#8C5555;strokeWidth=7;" edge="1" source="vXiN6fV6Mzan8_HjuI6i-28" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-250" y="1780" />
+              <mxPoint x="-250" y="1550" />
+            </Array>
+            <mxPoint x="-250" y="1550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-31" value="F" style="group;strokeWidth=7;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="1920" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-32" value="Subscribers" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#F6CFAA;right=0;labelPosition=center;align=left;spacingLeft=120;" vertex="1" parent="vXiN6fV6Mzan8_HjuI6i-31">
+          <mxGeometry width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-33" value="D5" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#D68987;right=1;labelPosition=center;align=center;" vertex="1" parent="vXiN6fV6Mzan8_HjuI6i-31">
+          <mxGeometry width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-34" value="Subscribe status" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=7;strokeColor=#8C5555;fontSize=28;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;labelBackgroundColor=#F9F1F1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="vXiN6fV6Mzan8_HjuI6i-33" target="vXiN6fV6Mzan8_HjuI6i-9" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-320" y="1550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="75" y="1860" />
+              <mxPoint x="-295" y="1860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-35" value="User&#39;s information" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;strokeColor=#8C5555;strokeWidth=7;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-340" y="1550" as="sourcePoint" />
+            <mxPoint x="20" y="1960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-340" y="1960" />
+              <mxPoint x="19" y="1960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-36" value="DFD 1 Fragment" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=61;strokeWidth=7;fillColor=none;verticalAlign=bottom;spacingTop=13;spacingBottom=-35;labelBackgroundColor=#F9F1F1;" vertex="1" parent="1">
+          <mxGeometry x="-1230" y="1160" width="2020" height="940" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-37" value="F" style="group;strokeWidth=7;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="2510" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-38" value="Subscribers" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#F6CFAA;right=0;labelPosition=center;align=left;spacingLeft=120;" vertex="1" parent="vXiN6fV6Mzan8_HjuI6i-37">
+          <mxGeometry width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-39" value="D5" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#D68987;right=1;labelPosition=center;align=center;" vertex="1" parent="vXiN6fV6Mzan8_HjuI6i-37">
+          <mxGeometry width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-40" value="" style="group;fontSize=13;strokeWidth=7;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-350" y="2800" width="310" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-41" value="&lt;font face=&quot;Inria Sans&quot;&gt;Subscribe to the music service&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=38;strokeWidth=7;fillColor=#F6CFAA;container=0;arcSize=13;spacingTop=30;" vertex="1" parent="vXiN6fV6Mzan8_HjuI6i-40">
+          <mxGeometry y="40" width="310" height="250" as="geometry">
+            <mxRectangle x="-440" y="320" width="570" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-42" value="2" style="swimlane;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=20;strokeWidth=7;fillColor=#D68987;startSize=40;labelBorderColor=none;arcSize=35;" vertex="1" parent="vXiN6fV6Mzan8_HjuI6i-40">
+          <mxGeometry y="40" width="310" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-43" value="New subscriber" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=-0.013;entryY=0.754;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" edge="1" source="vXiN6fV6Mzan8_HjuI6i-42" target="vXiN6fV6Mzan8_HjuI6i-39" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-118" y="2650" />
+              <mxPoint x="50" y="2650" />
+              <mxPoint x="50" y="2570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-44" value="Subscribers&#39; information" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" edge="1" source="vXiN6fV6Mzan8_HjuI6i-39" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-40" y="2840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="175" y="2810" />
+              <mxPoint x="-40" y="2810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-45" value="Payment information" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" edge="1" source="vXiN6fV6Mzan8_HjuI6i-42" target="vXiN6fV6Mzan8_HjuI6i-48" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="2872" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-46" value="Payment authorization" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="vXiN6fV6Mzan8_HjuI6i-48" target="vXiN6fV6Mzan8_HjuI6i-42" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="2930" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-690" y="3270" />
+              <mxPoint x="-410" y="3270" />
+              <mxPoint x="-410" y="3190" />
+              <mxPoint x="-272" y="3190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-47" value="Purchase information" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.579;entryY=-0.058;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" edge="1" source="vXiN6fV6Mzan8_HjuI6i-42" target="vXiN6fV6Mzan8_HjuI6i-50" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-48" value="Payment system" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=7;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=38;fillColor=#F6CFAA;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="2990" width="240" height="202" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-49" value="F" style="group;strokeWidth=7;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="300" y="3270" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-50" value="Sales" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#F6CFAA;right=0;labelPosition=center;align=left;spacingLeft=120;" vertex="1" parent="vXiN6fV6Mzan8_HjuI6i-49">
+          <mxGeometry width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-51" value="D6" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#D68987;right=1;labelPosition=center;align=center;" vertex="1" parent="vXiN6fV6Mzan8_HjuI6i-49">
+          <mxGeometry width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-52" value="Purchase history" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" edge="1" source="vXiN6fV6Mzan8_HjuI6i-51" target="vXiN6fV6Mzan8_HjuI6i-42" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-53" value="F" style="group;strokeWidth=7;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="240" y="3470" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-54" value="Customers" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#F6CFAA;right=0;labelPosition=center;align=left;spacingLeft=120;" vertex="1" parent="vXiN6fV6Mzan8_HjuI6i-53">
+          <mxGeometry width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-55" value="D7" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#D68987;right=1;labelPosition=center;align=center;" vertex="1" parent="vXiN6fV6Mzan8_HjuI6i-53">
+          <mxGeometry width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-56" value="New customer" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.482;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" edge="1" source="vXiN6fV6Mzan8_HjuI6i-42" target="vXiN6fV6Mzan8_HjuI6i-55" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-195" y="3410" />
+              <mxPoint x="293" y="3410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-57" value="Customer information" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" edge="1" source="vXiN6fV6Mzan8_HjuI6i-55" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-230" y="3090.000000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-230" y="3510" />
+              <mxPoint x="-230" y="3090" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-58" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=7;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=38;fillColor=#F6CFAA;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-1150" y="2550" width="240" height="202" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-59" value="Payment information" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" edge="1" source="vXiN6fV6Mzan8_HjuI6i-58" target="vXiN6fV6Mzan8_HjuI6i-42" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-60" value="Subscription information" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" edge="1" source="vXiN6fV6Mzan8_HjuI6i-42" target="vXiN6fV6Mzan8_HjuI6i-58" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-550" y="2840" />
+              <mxPoint x="-550" y="2702" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-61" value="DFD 1 Fragment" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=61;strokeWidth=7;fillColor=none;verticalAlign=bottom;spacingTop=13;spacingBottom=-35;labelBackgroundColor=#F9F1F1;" vertex="1" parent="1">
+          <mxGeometry x="-1220" y="2440" width="2020" height="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-62" value="F" style="group;strokeWidth=7;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="290" y="4300" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-63" value="Customer&#39;s interests" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#F6CFAA;right=0;labelPosition=center;align=left;spacingLeft=120;" vertex="1" parent="vXiN6fV6Mzan8_HjuI6i-62">
+          <mxGeometry width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-64" value="D3" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#D68987;right=1;labelPosition=center;align=center;" vertex="1" parent="vXiN6fV6Mzan8_HjuI6i-62">
+          <mxGeometry width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-65" value="" style="group;fontSize=13;strokeWidth=7;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-440" y="4280" width="310" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-66" value="&lt;font face=&quot;Inria Sans&quot;&gt;Promote trending songs&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=38;strokeWidth=7;fillColor=#F6CFAA;container=0;arcSize=13;spacingTop=30;" vertex="1" parent="vXiN6fV6Mzan8_HjuI6i-65">
+          <mxGeometry y="40" width="310" height="250" as="geometry">
+            <mxRectangle x="-440" y="320" width="570" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-67" value="3" style="swimlane;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=20;strokeWidth=7;fillColor=#D68987;startSize=40;labelBorderColor=none;arcSize=35;" vertex="1" parent="vXiN6fV6Mzan8_HjuI6i-65">
+          <mxGeometry y="40" width="310" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-68" value="F" style="group;strokeWidth=7;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="4430" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-69" value="Customer&#39;s favorites" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#F6CFAA;right=0;labelPosition=center;align=left;spacingLeft=120;" vertex="1" parent="vXiN6fV6Mzan8_HjuI6i-68">
+          <mxGeometry width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-70" value="D2" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#D68987;right=1;labelPosition=center;align=center;" vertex="1" parent="vXiN6fV6Mzan8_HjuI6i-68">
+          <mxGeometry width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-71" value="Songs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;exitX=-0.055;exitY=0.525;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="vXiN6fV6Mzan8_HjuI6i-64" target="vXiN6fV6Mzan8_HjuI6i-67" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="4690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-10" y="4342" />
+              <mxPoint x="-10" y="4382" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-72" value="Songs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;exitX=-0.01;exitY=0.492;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="vXiN6fV6Mzan8_HjuI6i-70" target="vXiN6fV6Mzan8_HjuI6i-67" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="4691.68" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="40" y="4469" />
+              <mxPoint x="40" y="4508" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-73" value="Billboard decision" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" source="vXiN6fV6Mzan8_HjuI6i-74" target="vXiN6fV6Mzan8_HjuI6i-67" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-800" y="4951" />
+              <mxPoint x="-800" y="4570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-74" value="Billboard managers" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=7;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=38;fillColor=#F6CFAA;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="4860" width="240" height="202" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-75" value="" style="group;strokeWidth=7;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="4940" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-76" value="Billboard" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#F6CFAA;right=0;labelPosition=center;align=left;spacingLeft=120;" vertex="1" parent="vXiN6fV6Mzan8_HjuI6i-75">
+          <mxGeometry width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-77" value="D1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#D68987;right=1;labelPosition=center;align=center;" vertex="1" parent="vXiN6fV6Mzan8_HjuI6i-75">
+          <mxGeometry width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-78" value="Top performing songs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" edge="1" source="vXiN6fV6Mzan8_HjuI6i-77" target="vXiN6fV6Mzan8_HjuI6i-67" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-79" value="F" style="group;strokeWidth=7;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="10" y="5080" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-80" value="Customers" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#F6CFAA;right=0;labelPosition=center;align=left;spacingLeft=120;" vertex="1" parent="vXiN6fV6Mzan8_HjuI6i-79">
+          <mxGeometry width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-81" value="D7" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=7;size=13.18;indent=0;rounded=1;shadow=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;fillColor=#D68987;right=1;labelPosition=center;align=center;" vertex="1" parent="vXiN6fV6Mzan8_HjuI6i-79">
+          <mxGeometry width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-82" value="Customer&#39;s email address" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" edge="1" source="vXiN6fV6Mzan8_HjuI6i-81" target="vXiN6fV6Mzan8_HjuI6i-67" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-83" value="Top performing songs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=7;strokeColor=#945953;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;labelBackgroundColor=#F9F1F1;" edge="1" source="vXiN6fV6Mzan8_HjuI6i-67" target="vXiN6fV6Mzan8_HjuI6i-74" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-440" y="4680" />
+              <mxPoint x="-610" y="4680" />
+              <mxPoint x="-610" y="5012" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-84" value="Customers&#39; favorite and interests" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;strokeColor=#945953;strokeWidth=7;" edge="1" source="vXiN6fV6Mzan8_HjuI6i-67" target="vXiN6fV6Mzan8_HjuI6i-77" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="75" y="4570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-85" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=7;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=38;fillColor=#F6CFAA;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-1005" y="4060" width="240" height="202" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-86" value="Email promotions" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" edge="1" source="vXiN6fV6Mzan8_HjuI6i-67" target="vXiN6fV6Mzan8_HjuI6i-85" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1110" y="4508" />
+              <mxPoint x="-1110" y="4211" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-87" value="Most trending songs" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#F9F1F1;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=28;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#8C5555;strokeWidth=7;" edge="1" source="vXiN6fV6Mzan8_HjuI6i-67" target="vXiN6fV6Mzan8_HjuI6i-85" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vXiN6fV6Mzan8_HjuI6i-88" value="DFD 1 Fragment" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;fontFamily=Inria Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DInria%2BSans;fontSize=61;strokeWidth=7;fillColor=none;verticalAlign=bottom;spacingTop=13;spacingBottom=-35;labelBackgroundColor=#F9F1F1;" vertex="1" parent="1">
+          <mxGeometry x="-1210" y="4010" width="2020" height="1250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
